@@ -15,11 +15,6 @@ body {
   min-height: calc(100vh - 60px); /* altura total - altura do footer */
 }
 
-.container {
-  max-width: 1200px;
-  margin: 0 auto;
-}
-
 img {
   max-width: 100%;
   height: auto;
