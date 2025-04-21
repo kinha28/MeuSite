@@ -13,6 +13,7 @@ body {
 
 .container {
   min-height: calc(100vh - 60px); /* altura total - altura do footer */
+  width: 100%;
 }
 
 img {
@@ -31,6 +32,7 @@ header {
 .logo {
   padding: 15px;
 }
+
 .logo img {
  max-width: 50%;
 }
